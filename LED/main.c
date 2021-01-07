@@ -2,7 +2,7 @@
 //Student number: 30054505
 //date: march 26th 2020
 
-//Cpsc 359 assignment 3
+
 //Description: this program displays 2 LED patterns across 3 LED outputs (pins 17, 22, 27), the led pattern displayed 
 //as well as the speed transitions in the display are controlled by 2 inputs, pins 23 and 34
 
