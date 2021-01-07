@@ -1,6 +1,6 @@
 // Author: Quenten Welch 30054505
 // Date: april 14th 2020
-// description: A maze game that is implemented in C, will recieve output from a SNES controller 
+// description: A maze game that is implemented in C, will recieve input from a SNES controller 
 
 
 
